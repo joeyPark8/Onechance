@@ -1,0 +1,6 @@
+name: Onechance
+version: 1.0
+main: onechance.Main
+
+commands:
+  /oc:
